@@ -1,0 +1,68 @@
+html {
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+body {
+
+}
+
+div.title {
+    text-align: center;
+    background-color: #5d7c7f;
+    padding: 1px;
+    height: 5%;
+    width: 100%;
+}
+
+a, button.b1, b2, b3 {
+    color: #5d7c7f;
+    padding-top: 10%;
+    margin: 0;
+    height: 20px;
+    width: 25%;
+}
+
+a {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    margin: 150px;
+    border: #2A3437;
+    padding-top: 100px;
+    line-height: 70px;
+    outline-width: 100px;
+    height: 50%;
+}
+
+h1 {
+    text-align: center;
+    color: #2A3437;
+    line-height: 100px;
+}
+
+div.windows {
+    text-align: center;
+    line-height: 10px;
+}
+
+div.a1 {
+    image: url("https://lh3.googleusercontent.com/p/AF1QipPXyGBzgIApaQ7HBsP3fLOHH4DXINZKpN8iJrHR=w296-");
+}
+
+div.a2 {
+    image: url("https://lh5.googleusercontent.com/p/AF1QipMCgQ4OswXGgR0xzCMViEBOo3PCfVEbftPaRQzm=w253-h168-k-no")
+}
+
+div.a3 {
+    image: url("https://lh5.googleusercontent.com/p/AF1QipMRkON0Wu2Y9yC1BwLPHW0PHjIZPEkxubafAB8r=w253-h168-k-no")
+}
+p.altai {
+    text-align: center;
+    margin: 7%;
+}
+
+p, h1.-directation- {
+    text-align: center;
+
+}
